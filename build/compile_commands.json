@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/chen/Documents/Programming/CPP/OCR_OpenCV/build/app",
+  "command": "/usr/bin/g++-9   -I/home/chen/include -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/OCR.dir/src/main.cpp.o -c /home/chen/Documents/Programming/CPP/OCR_OpenCV/app/src/main.cpp",
+  "file": "/home/chen/Documents/Programming/CPP/OCR_OpenCV/app/src/main.cpp"
+}
+]
